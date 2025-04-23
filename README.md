@@ -1,41 +1,38 @@
-# Ex3---Hurdle-Game-2D
-
+﻿# Ex3---Hurdle-Game-2D
 ## AIM:
 To develop a 2D game using C# program in unity .
 
-
-
 ## ALGORITHM:
-'''
-## STEP 1:
+### STEP 1:
 Create a 2D project in unity.
 
-## STEP 2:
+### STEP 2:
 Add player,hurdles,coins,track in the frame and add the valid collider2D component.
 
-## STEP 3:
+### STEP 3:
 Click Assets->Create-># Script.
 
-## STEP 4:
+### STEP 4:
 create player.cs and coinmanger script and add c# code.
 
-## STEP 5:
+### STEP 5:
 Click canvas->Gamemanager->add Score and value.
 
-## STEP 6:
+### STEP 6:
 Drag the script to player and coin.
 
-## STEP 7:
+### STEP 7:
 Run the scene and display the output.
-'''
 
 ## PROGRAM:
-'''
+```
 Developed by: Hashini R
 Register no: 212224240055
-'''
-## player.cs :
-'''
+```
+
+### player.cs :
+
+```C#
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -72,9 +69,12 @@ public class player : MonoBehaviour
         }
     }
 }
-'''
-## CoinManager.cs :
-'''
+
+```
+### CoinManager.cs :
+
+```C#
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -96,11 +96,12 @@ public class CoinManager : MonoBehaviour
         value.text = coincount.ToString(); 
     }
 }
-'''
 
+```
 ## OUTPUT:
-![Alt text](i1.png)
-![Alt text](I22.png)
+[Alt text](<Screenshot from 2025-04-23 19-22-35.png>)
+![Alt text](<Screenshot from 2025-04-23 19-21-12.png>)
 
 ## RESULT:
+
 Thus a 2D game using C# program in unity is developed successfully.
