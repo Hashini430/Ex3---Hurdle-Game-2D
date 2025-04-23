@@ -99,8 +99,10 @@ public class CoinManager : MonoBehaviour
 
 ```
 ## OUTPUT:
-[Alt text](<Screenshot from 2025-04-23 19-22-35.png>)
-![Alt text](<Screenshot from 2025-04-23 19-21-12.png>)
+![Screenshot from 2025-04-23 19-22-35](https://github.com/user-attachments/assets/a025af4a-7793-4e10-859e-d2a68f3ab512)
+![Screenshot from 2025-04-23 19-21-12](https://github.com/user-attachments/assets/e725f85d-df3c-41e5-842e-4abd8c7dce93)
+
+
 
 ## RESULT:
 
